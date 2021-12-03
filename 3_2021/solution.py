@@ -35,8 +35,19 @@ print('solution: {}'.format(gamma_dec*epsilon_dec))
 # %%
 
 # Oxygen generator rating:
-ary = np.array([[int(num) for num in line] for line in lines])
+ary = [[int(num) for num in line] for line in lines]
+#print(ary.shape)
 
 pos = 0
 while len(ary) > 1:
-    if g
+    if gamma[pos] == 1:
+        #for line in ary:
+        #    print(line)
+        #    if line[pos] == 1:
+        ary = [line for line in ary if int(line[pos]) == 1]
+    print(ary)
+    pos += 1
+
+print(ary)
+
+# %%
