@@ -33,3 +33,10 @@ print('solution: {}'.format(gamma_dec*epsilon_dec))
 # convert gamma, epsilon strings to binary numbers
 
 # %%
+
+# Oxygen generator rating:
+ary = np.array([[int(num) for num in line] for line in lines])
+
+pos = 0
+while len(ary) > 1:
+    if g
