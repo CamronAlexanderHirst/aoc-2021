@@ -28,7 +28,7 @@ print('Solution Part 1: ', count)
 ### Part 2: get confused then decode each output
 
 # Read the input
-with open('input.txt') as f:
+with open('riley-8-data.txt') as f:
     lines = f.read().splitlines()  # read lines without /n
 
 dict_list = []
