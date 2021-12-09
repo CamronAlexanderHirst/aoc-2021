@@ -1,0 +1,401 @@
+['bcefg', 'bcdefg', 'abcef', 'abfg']
+5634
+['ac', 'acdefg', 'abdeg', 'acdefg']
+1020
+['cdefg', 'acef', 'abcdg', 'bcdefg']
+5426
+['abcdg', 'abcdg', 'abcdg', 'abcdfg']
+3339
+['afg', 'bcdefg', 'adefg', 'afg']
+7637
+['abcdef', 'bcdf', 'acdef', 'bc']
+9451
+['bdefg', 'cd', 'bcdefg', 'bcdf']
+5194
+['abefg', 'ce', 'ce', 'acdfg']
+5112
+['abcdefg', 'bdfg', 'acefg', 'beg']
+8427
+['abcde', 'abcdeg', 'abcdeg', 'abcdefg']
+5668
+['abdefg', 'adefg', 'dfg', 'abcdefg']
+9378
+['abcdef', 'abcdefg', 'acd', 'abdefg']
+9876
+['abcdefg', 'bdefg', 'abcdefg', 'efg']
+8387
+['bc', 'abcdeg', 'bcg', 'abdeg']
+1975
+['acdefg', 'acdefg', 'abef', 'acdef']
+6645
+['bdefg', 'abcdefg', 'ae', 'acde']
+2814
+['acg', 'abcdefg', 'abdg', 'abcdef']
+7846
+['abcdefg', 'abde', 'bdefg', 'abcdfg']
+8450
+['adefg', 'adefg', 'aceg', 'abcdefg']
+3348
+['abcefg', 'abcdeg', 'abcdefg', 'adeg']
+6984
+['abcefg', 'ab', 'abe', 'abcf']
+9174
+['abcdefg', 'abcefg', 'ag', 'abcdef']
+8016
+['abdefg', 'acdefg', 'bcdfg', 'cg']
+6031
+['cdefg', 'abceg', 'abcdefg', 'abceg']
+2585
+['bdg', 'acdefg', 'abdeg', 'abcdefg']
+7638
+['abcef', 'ab', 'abcdefg', 'ab']
+3181
+['abcdefg', 'abcdfg', 'acef', 'abcfg']
+8645
+['abcefg', 'adefg', 'aeg', 'abcefg']
+0370
+['abcdfg', 'acg', 'abcdefg', 'abcdfg']
+9789
+['bceg', 'bceg', 'cg', 'bceg']
+4414
+['fg', 'afg', 'afg', 'fg']
+1771
+['ce', 'abcdf', 'abcdf', 'ce']
+1551
+['acdg', 'abcdefg', 'abcefg', 'adf']
+4867
+['abcdefg', 'abcdeg', 'bde', 'abcdefg']
+8078
+['abce', 'abcdef', 'bcdefg', 'bcdefg']
+4966
+['abcd', 'acefg', 'abdfg', 'abdefg']
+4256
+['ad', 'abcdefg', 'ad', 'adg']
+1817
+['abcdfg', 'abdfg', 'abcdefg', 'abdfg']
+9383
+['ef', 'abefg', 'adef', 'abceg']
+1342
+['bdfg', 'afg', 'abefg', 'fg']
+4731
+['cde', 'abdef', 'abceg', 'abdef']
+7525
+['abcefg', 'acdefg', 'abcdfg', 'acdefg']
+0696
+['ag', 'abeg', 'abcdefg', 'abcdef']
+1486
+['abdef', 'bfg', 'abdef', 'bfg']
+2727
+['abcdf', 'acdefg', 'abcdefg', 'cef']
+2987
+['abcdg', 'bdg', 'abcdf', 'adeg']
+3724
+['abcde', 'aceg', 'eg', 'deg']
+5417
+['abg', 'bdefg', 'bdefg', 'abefg']
+7553
+['abcdefg', 'abdefg', 'abcdefg', 'abdefg']
+8989
+['df', 'bdef', 'abcdefg', 'abdefg']
+1489
+['abcdeg', 'acdef', 'adfg', 'df']
+6341
+['bdf', 'cdefg', 'abcdefg', 'abcdfg']
+7289
+['abdg', 'bcdefg', 'bcdefg', 'cdg']
+4007
+['abcdeg', 'abcdef', 'abcdfg', 'af']
+6901
+['abdefg', 'abce', 'abce', 'abce']
+6444
+['bce', 'abceg', 'bc', 'bce']
+7317
+['abcdfg', 'abcdf', 'abcdefg', 'abcdfg']
+6586
+['ab', 'abcefg', 'bcdfg', 'acdefg']
+1026
+['abfg', 'abcdeg', 'bf', 'cdefg']
+4612
+['abcde', 'abdfg', 'cdg', 'acfg']
+2574
+['bfg', 'abceg', 'abceg', 'bf']
+7221
+['abcdeg', 'acfg', 'abcdeg', 'acdefg']
+0409
+['abcde', 'abcdg', 'abcde', 'abcdefg']
+3238
+['bdefg', 'abefg', 'de', 'abdefg']
+3519
+['abcdefg', 'abdefg', 'bdefg', 'cdef']
+8654
+['abcdfg', 'acdefg', 'abcdefg', 'abc']
+0687
+['abcefg', 'bfg', 'bfg', 'acdefg']
+0776
+['abcefg', 'ce', 'ceg', 'abcefg']
+0170
+['bdeg', 'bdeg', 'abcefg', 'acdef']
+4462
+['bdefg', 'acdeg', 'bcdeg', 'bcdeg']
+5233
+['ade', 'abcdefg', 'abcdefg', 'abdefg']
+7880
+['ef', 'acdeg', 'abdfg', 'abcdfg']
+1256
+['adf', 'abdfg', 'abcdef', 'abcdeg']
+7306
+['dg', 'abcdfg', 'adeg', 'dg']
+1041
+['acdg', 'abdefg', 'bcdef', 'acdg']
+4024
+['abcde', 'acdef', 'acdef', 'abcde']
+2332
+['abdefg', 'abcdefg', 'cdefg', 'abcdfg']
+9820
+['cefg', 'abcdefg', 'bdefg', 'deg']
+4837
+['abcefg', 'abcdg', 'defg', 'abcdef']
+0246
+['abcdeg', 'cdeg', 'cd', 'abcdef']
+9410
+['acfg', 'abefg', 'abcdefg', 'acfg']
+4584
+['abcdfg', 'adefg', 'abcdefg', 'abcdefg']
+0588
+['bcdef', 'aefg', 'abceg', 'bcefg']
+2453
+['bef', 'abcdef', 'bcdef', 'acef']
+7934
+['abcdf', 'abcef', 'cd', 'abdfg']
+3215
+['abdefg', 'abdeg', 'abcdeg', 'cdeg']
+6594
+['abcdef', 'abcef', 'cg', 'abcefg']
+6519
+['abcdef', 'dg', 'abcdf', 'abcdefg']
+6158
+['abcdfg', 'ad', 'abcdefg', 'abcdef']
+9180
+['abcefg', 'abcdef', 'acefg', 'abcefg']
+9039
+['abcefg', 'bfg', 'bf', 'bf']
+9711
+['acdfg', 'cfg', 'abcdefg', 'abcdg']
+3785
+['acdeg', 'bcdefg', 'acdeg', 'acef']
+5054
+['abcdf', 'bcdefg', 'abdfg', 'abdfg']
+3055
+['bcdefg', 'abcdeg', 'bcefg', 'ag']
+6051
+['ac', 'abcg', 'acd', 'abcde']
+1473
+['bcdeg', 'abcefg', 'abcdfg', 'adef']
+2064
+['abdefg', 'abdefg', 'abdfg', 'abcdefg']
+9938
+['cfg', 'abcdg', 'abcefg', 'abcdeg']
+7506
+['cdf', 'abcfg', 'bcdeg', 'df']
+7251
+['defg', 'bcefg', 'fg', 'bfg']
+4317
+['acdeg', 'defg', 'abcdef', 'ceg']
+3467
+['acdefg', 'adf', 'adf', 'adefg']
+9773
+['de', 'bcdfg', 'bcdef', 'abcdef']
+1239
+['cd', 'acdef', 'cd', 'acd']
+1317
+['abcdefg', 'abdefg', 'abcdf', 'bef']
+8027
+['eg', 'abcdfg', 'abcfg', 'acdefg']
+1650
+['abdefg', 'abcdefg', 'cefg', 'acdefg']
+6849
+['bdefg', 'cef', 'abcdef', 'abdefg']
+5706
+['acdefg', 'acdefg', 'bcdefg', 'cdefg']
+9965
+['fg', 'abdefg', 'bcdef', 'fg']
+1921
+['acefg', 'acd', 'abcdefg', 'abcdeg']
+2789
+['abcdfg', 'ef', 'bcdfg', 'cefg']
+6154
+['ad', 'abcdfg', 'ad', 'cdefg']
+1912
+['adef', 'abdefg', 'abcdfg', 'abe']
+4967
+['cf', 'abcdefg', 'acdf', 'acdf']
+1844
+['abcdg', 'abcfg', 'abcde', 'abcde']
+3255
+['abcdf', 'bcef', 'def', 'abcdefg']
+5478
+['acdfg', 'abcefg', 'abef', 'abcefg']
+2949
+['acdef', 'abdefg', 'abcdf', 'acdef']
+3623
+['cdefg', 'abcdfg', 'abef', 'abcdf']
+2645
+['abefg', 'adg', 'bdfg', 'abcdefg']
+5748
+['abde', 'abcdefg', 'abcdefg', 'abde']
+4884
+['abcefg', 'abe', 'aefg', 'abe']
+9747
+['cdeg', 'abcdeg', 'abdeg', 'abdef']
+4932
+['acdefg', 'abg', 'abg', 'abcf']
+6774
+['acdefg', 'be', 'bcdefg', 'abcde']
+6103
+['af', 'bcdef', 'abcdfg', 'abf']
+1507
+['cdefg', 'abcdef', 'bcdefg', 'cdefg']
+3693
+['acdefg', 'abcdefg', 'abceg', 'bcdefg']
+9826
+['abd', 'abcefg', 'acdeg', 'abcdef']
+7620
+['bcfg', 'bc', 'abcefg', 'abcdefg']
+4198
+['abefg', 'abefg', 'abcefg', 'ace']
+5597
+['abdefg', 'abcdeg', 'acdeg', 'abcdef']
+6930
+['abcdefg', 'ab', 'abcdef', 'abce']
+8194
+['abcdefg', 'acfg', 'adf', 'acfg']
+8474
+['abcdg', 'bcdefg', 'bcdefg', 'acdeg']
+2003
+['cefg', 'abdefg', 'bcdfg', 'cefg']
+4034
+['acefg', 'bcefg', 'bcefg', 'bdfg']
+2334
+['bcdefg', 'bdefg', 'af', 'abefg']
+6513
+['abcdefg', 'acdef', 'cdg', 'abcfg']
+8572
+['defg', 'abcdef', 'cde', 'acdfg']
+4075
+['adefg', 'aef', 'ae', 'abcdef']
+3710
+['abcde', 'abcdeg', 'abcde', 'abcdefg']
+3938
+['abcf', 'abcdefg', 'abdefg', 'bc']
+4861
+['abcdefg', 'abcdfg', 'abcdefg', 'abcef']
+8683
+['abcdeg', 'acdefg', 'bd', 'abdefg']
+0619
+['abcdfg', 'abcdfg', 'abdefg', 'abcef']
+0062
+['bcdefg', 'cd', 'abcde', 'abceg']
+0135
+['abcef', 'abcdefg', 'fg', 'bcdefg']
+2819
+['cdef', 'cdef', 'ce', 'ce']
+4411
+['ag', 'adfg', 'acg', 'ag']
+1471
+['def', 'abcdfg', 'acdefg', 'acdefg']
+7600
+['ce', 'abdef', 'acdefg', 'abcde']
+1203
+['abcdeg', 'abcdefg', 'abcdeg', 'adf']
+6867
+['cef', 'abcef', 'acdefg', 'abcde']
+7302
+['aefg', 'abcde', 'abcdfg', 'abcdfg']
+4200
+['bcde', 'acefg', 'abcdfg', 'bcde']
+4264
+['abcd', 'ab', 'adefg', 'abf']
+4127
+['ade', 'abcdefg', 'abcdeg', 'bcdef']
+7802
+['def', 'def', 'def', 'acef']
+7774
+['defg', 'abcdef', 'defg', 'bcdeg']
+4045
+['def', 'abcdeg', 'bcdeg', 'abcdefg']
+7658
+['abdfg', 'ac', 'abcdf', 'ac']
+2131
+['af', 'abcdefg', 'abcefg', 'bcdef']
+1802
+['adefg', 'abcdf', 'cg', 'acdfg']
+5213
+['abdef', 'cef', 'acdef', 'abcdef']
+5739
+['bcdf', 'df', 'bcdf', 'bcdf']
+4144
+['abcdeg', 'abcdefg', 'abcdeg', 'abcdeg']
+6866
+['bdf', 'bcfg', 'bcdeg', 'bdf']
+7457
+['adeg', 'abcefg', 'abg', 'abdefg']
+4079
+['cd', 'abcdefg', 'abcdef', 'bcdef']
+1893
+['abcdf', 'abcdf', 'abcdefg', 'ae']
+5581
+['abcefg', 'abcefg', 'abf', 'acfg']
+9974
+['abcefg', 'abcdef', 'abdeg', 'abcdef']
+9020
+['abcdg', 'adfg', 'abcfg', 'abcdg']
+3453
+['ab', 'abcd', 'adefg', 'adefg']
+1422
+['bd', 'bd', 'abd', 'abcef']
+1175
+['acefg', 'abcdefg', 'abcdfg', 'abcdef']
+2860
+['abdefg', 'abce', 'abcefg', 'abce']
+0494
+['acdefg', 'abce', 'abce', 'abcdefg']
+0448
+['abdefg', 'df', 'dfg', 'dfg']
+0177
+['abdef', 'abefg', 'adfg', 'adfg']
+3544
+['ac', 'abcdef', 'abcf', 'abcdef']
+1949
+['abcdef', 'bcdefg', 'abcdefg', 'aefg']
+6084
+['abcdefg', 'abcdefg', 'abcdefg', 'abcefg']
+8886
+['bcefg', 'acde', 'de', 'bcefg']
+2412
+['bcde', 'abdefg', 'bef', 'abdefg']
+4070
+['abcefg', 'acdef', 'ab', 'abcdfg']
+0219
+['acdfg', 'ef', 'aefg', 'cdefg']
+5143
+['adfg', 'abcdefg', 'abcdg', 'abcdf']
+4853
+['acefg', 'abcefg', 'cdg', 'acdefg']
+5679
+['acdg', 'ade', 'abcdefg', 'abcefg']
+4786
+['abce', 'abce', 'bcdef', 'bcdef']
+4433
+['abdefg', 'bcefg', 'abcef', 'ac']
+6231
+['abcdeg', 'acdef', 'bcfg', 'abcdefg']
+6248
+['abdefg', 'abcde', 'abcde', 'abcde']
+0555
+['bcef', 'cf', 'bcdfg', 'bcdefg']
+4139
+['abcdeg', 'abcdefg', 'acefg', 'def']
+6827
+['abdef', 'ade', 'abdefg', 'ad']
+3791
+974512

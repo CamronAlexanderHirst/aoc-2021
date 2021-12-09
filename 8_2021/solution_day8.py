@@ -28,7 +28,12 @@ print('Solution Part 1: ', count)
 ### Part 2: get confused then decode each output
 
 # Read the input
-with open('riley-8-data.txt') as f:
+filepath = 'input.txt'
+#filepath = 'short_test.txt'
+#filepath = 'long_test.txt'
+#filepath = 'riley-8-data.txt'
+
+with open(filepath) as f:
     lines = f.read().splitlines()  # read lines without /n
 
 dict_list = []
@@ -94,7 +99,7 @@ for x in dict_list:
 
     # find 5:
     for p in remaining_list:
-        if len(p) == 5:
+        if len(p) == 5 and len(set(p).intersection(truth_dict[9])) == 5:
             truth_dict[5] = p 
             remaining_list.remove(p)
             # print('found 5!')
@@ -135,8 +140,17 @@ print(np.sum(np.array(total_list)))
 
 
 
+# Read dan's output file
+with open('riley-8-output.txt') as f:
+    lines = f.read().splitlines()  # read lines without /n
 
-
+dan_output = []
+for line in lines:
+    if line[0] == '[':
+        pass 
+    else:
+        dan_output.append(int(line))
+print(dan_output)
 
 
     
